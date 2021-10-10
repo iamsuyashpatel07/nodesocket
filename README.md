@@ -2,7 +2,7 @@
 # socket-learn
 # node-socket
 
-https://www.youtube.com/watch?v=r2S89Hm1Uq0
+https://chitchatin.herokuapp.com/
 
 https://socket.io/get-started/chat
 
